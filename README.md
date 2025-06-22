@@ -45,7 +45,7 @@ project-folder/
 
 ## 📸 Screenshot
 
-![VS Code Styled UI](https://imgs.search.brave.com/tN680eQiXdSaH1a4fByI7B5kydb9Y2v1fu9AK895YwM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93ZWIu/ZGV2L3N0YXRpYy9i/bG9nL2Jhc2VsaW5l/LXZzY29kZS9hc3Nl/dHMvdnNjb2RlLW5l/dy53ZWJw)
+![image](https://github.com/user-attachments/assets/e14f761d-10d1-48a5-b9d3-958ee85ba7ce)
 
 ---
 
